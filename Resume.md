@@ -1,21 +1,8 @@
 # Akash Gajbhiye
-<table>
-<thead>
-	<tr>
-		<th></th>
-		<th></th>
-		<th></th>
-	</tr>
-</thead>
-<tbody>
-	<tr>
-		<td>Lead Data Scientist :: Aventior Digital Pvt. Ltd. :: June 2018 - Present<br>M. Tech. Modeling and Simulations , Department of Applied Mathematics,  2015-17 <br>D.R.D.O. Defence Institute of Advanced Technology (DU), Pune, India <br>Email: akashgajbhiye99@gmail.com <br>LinkedIn: www.linkedin.com/in/akash-gajbhiye-921795119/ <br> Phone: +91-9762118284, +91-9763013639</td>
-		<td></td>
-		<td> <img src="/images/Photo.png"  alt="1" width = 360px height = 640px > </td>
-	</tr>
 
-</tbody>
-</table>
+Lead Data Scientist :: Aventior Digital Pvt. Ltd. :: June 2018 - Present<br> M. Tech. Modeling and Simulations , Department of Applied Mathematics,  2015-17 <br>D.R.D.O. Defence Institute of Advanced Technology (DU), Pune, India <br>Email: akashgajbhiye99@gmail.com <br>LinkedIn: www.linkedin.com/in/akash-gajbhiye-921795119/ <br> Phone: +91-9762118284, +91-9763013639
+
+
 <br>
 
 ## **CAREER OBJECTIVE**
