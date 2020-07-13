@@ -11,7 +11,7 @@
 	<tr>
 		<td>Lead Data Scientist :: Aventior Digital Pvt. Ltd. :: June 2018 - Present<br>M. Tech. Modeling and Simulations , Department of Applied Mathematics,  2015-17 <br>D.R.D.O. Defence Institute of Advanced Technology (DU), Pune, India <br>Email: akashgajbhiye99@gmail.com <br>LinkedIn: www.linkedin.com/in/akash-gajbhiye-921795119/ <br> Phone: +91-9762118284, +91-9763013639</td>
 		<td></td>
-		<td> <img src="/images/Foto.png"  alt="1" width = 360px height = 640px > </td>
+		<td> <img src="/images/Photo.png"  alt="1" width = 360px height = 640px > </td>
 	</tr>
 
 </tbody>
@@ -204,6 +204,9 @@ _Exhibited the working principles in TechSpark Exhibition, SAE India Chapter_ <b
  The working principles and components of a battery ignition system were studied and exhibited in a technical exhibition hosted by SAE India. The Society of Automotive Engineers (SAE) India conducts an annual exhibition across various member universities and colleges. As a part of these exhibitions, the member students are asked to exhibit their topics of interest in the event. Exhibiting the scientific principles of the Battery Ignition system required a detailed study on the components and the working principles of the system. An electric potential difference of around 20000V is required at the spark plug in a gasoline engine working under Otto-cycle, whereas a motor-bike usually carries a battery of 12V. A sufficient voltage needs to be generated so that the spark of 20000V is generated 25 times per second considering a single-cylinder four-stroke gasoline engine running at a minimum of 3000 RPM. An in-depth study was conducted to understand the designing principles of the step-up transformer, the capacitor, and the supporting electrical circuit. 
 
 
+<br>
+ 
+## **DOCUMENTS**
 
 ![**Post-Graduation Degree**](/images/MTech-Degree.jpg "MTech Degree")
 ![**Post-Graduation Marksheet**](/images/MTech-Marksheet.jpg "MTech Marksheet")
