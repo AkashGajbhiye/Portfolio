@@ -20,7 +20,7 @@ With educational and professional experience in “Applied Statistics”, “Mat
 | Simulation Development | Simulink | Computer Vision  |
 | Mechanical Engineering | Python | R & R-Studio |
 | Predictive Analytics  | Data Science | Time-Series Analysis |
-|       |      |      |
+
 
 
 <br>
@@ -38,7 +38,7 @@ With educational and professional experience in “Applied Statistics”, “Mat
         + Identifying available Machine Learning and Deep Learning models, Developing new models if needed, oversight during model tra
         + Coordinating with stakeholders for regular updates and review of progress. 
         + Responsible for seamless execution and timely delivery of the project deliverables.
-    +  **Data Scientist** :: June 2018 - December 2019 <br>
+    +  **Data Scientist** :: June 2018 - June 2019 <br>
         Developing various machine learning and deep learning solutions for clients according to the specifications. <br> 
 
         Responsibilites include :
@@ -160,7 +160,7 @@ The biotech and pharmaceuticals industry generate a tremendous amount of data ev
 _M.Tech. Dissertation Thesis, DIAT, Pune India_ <br> 
 The field of internal ballistics still relies heavily on traditional empirical relations for mathematically modeling various processes. Many empirical relations developed are based on approximation of the experimental data, generated under some test conditions. Due to advancements in the field, the ballistics hardware has undergone tremendous changes, mostly due to new materials and optimized design of the components. The dissertation research project focused on a mechanical component on the projectile, called “Driving Band”. The component is fitted near the base of the projectile, and is designed to keep the projectile in place under gravitational forces or until a minimum amount of pressure is generated at the base so at to propel the projectile with the desired velocity, and achieve maximum possible muzzle velocity at the barrel end. The projectile’s muzzle velocity determines the range and impact velocity of the projectile and hence is the governing factor in the intermediate and external ballistics. The driving band is usually a metallic ring with trapezoidal cross-section, and hence the dimensions of the trapezoid play an important role in the resistance offered by the projectile to the pressure generated from the combustion process and hence affects the muzzle velocity of the projectile. When the combustion pressure behind the projectile increases, the forces cause deformation in the driving band. The traditional models assume the driving bands undergo only compressive deformation. The research work considered the compressive and bending forces that cause the driving band to deform. The deformation is also a function of trapezoidal dimensions and the material of the driving band and hence the variation of the muzzle velocity with variations in driving band’s geometry is calculated. The mathematical models for the driving band’s deformation consider it to be a cantilever beam. The models are simulated using MATLAB. The standard dimensions and results from lumped parameter models were used to validate the results of the compressive and bending forces of the developed model, and the geometrical parameters were then varied to study the effects of the dimensions on projectile’s muzzle velocity.
 
-![**Post-Graduation Degree**](/images/MTech-Marksheet.jpg "MTech Degree")
+![**Post-Graduation Degree**](/images/MTech-Degree.jpg "MTech Degree")
 ![**Post-Graduation Marksheet**](/images/MTech-Marksheet.jpg "MTech Marksheet")
 
 
@@ -173,4 +173,4 @@ With the introduction of Elliptical Dish Antennas (EDA) for televisions in India
 _Exhibited the working principles in TechSpark Exhibition, SAE India Chapter_ <br>
  The working principles and components of a battery ignition system were studied and exhibited in a technical exhibition hosted by SAE India. The Society of Automotive Engineers (SAE) India conducts an annual exhibition across various member universities and colleges. As a part of these exhibitions, the member students are asked to exhibit their topics of interest in the event. Exhibiting the scientific principles of the Battery Ignition system required a detailed study on the components and the working principles of the system. An electric potential difference of around 20000V is required at the spark plug in a gasoline engine working under Otto-cycle, whereas a motor-bike usually carries a battery of 12V. A sufficient voltage needs to be generated so that the spark of 20000V is generated 25 times per second considering a single-cylinder four-stroke gasoline engine running at a minimum of 3000 RPM. An in-depth study was conducted to understand the designing principles of the step-up transformer, the capacitor, and the supporting electrical circuit. 
 
-![**Graduation Degree**](/images/MTech-Marksheet.jpg "BE Degree")
+![**Graduation Degree**](/images/BE-Degree.jpg "BE Degree")
